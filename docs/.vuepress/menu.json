@@ -1,0 +1,670 @@
+{
+	"children":[
+		{
+			"children":[],
+			"collapsable":false,
+			"title":"Home"
+		},
+		{
+			"children":[
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Integrated Well Delivery"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Automatic Producers Model Management "
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Automatic Injectors Model Management"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Well Review Summary"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Closed Well Summary "
+				}
+			],
+			"collapsable":false,
+			"title":"Asset Performance Management"
+		},
+		{
+			"children":[
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"New Drill Well"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Workover Program"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Constraints Management"
+				}
+			],
+			"collapsable":false,
+			"title":"Integrated Well Delivery"
+		},
+		{
+			"children":[
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Daily Morning Report"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"SEK Water Handling Report"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Well Review Summary Report"
+				}
+			],
+			"collapsable":false,
+			"title":"S&EK Reports"
+		},
+		{
+			"children":[
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"KOC Business Commercial"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"KOC HSE Guidelines"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"KOC Checklist & Forms"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"KOC 2040 Strategy"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"KOC Planning"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"KOC HR"
+				}
+			],
+			"collapsable":false,
+			"title":"KOC Business Document"
+		},
+		{
+			"children":[
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Water Injector Status Report"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Asset Decision Dashboard"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Asset Summary"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Team Summary"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"GC Summary"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Well Injection Summary"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Reservoir Review"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"S&EK Rig Management"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"GIS"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Reservoir Management"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"IWD Performance Tracking"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Well Report"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Diesel Distribution"
+				}
+			],
+			"collapsable":false,
+			"title":"Operations Dashboard"
+		},
+		{
+			"children":[
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Realtime Dashboard"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Realtime Data Analysis & QC (Manifolds)"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Well History Realtime"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Well History"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Virtual Rate Analysis"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Downtime"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Daily Workover Status"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Daily Drilling Status"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Well Health Scan - Overview"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Well Health Scan"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Realtime Data Analytic"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"H2S MONITORING"
+				}
+			],
+			"collapsable":false,
+			"title":"Smart Production Surveillance"
+		},
+		{
+			"children":[
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Overview"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Well Model Calibration"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Water Injector Overview"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Water Injector Well Model Calibration"
+				}
+			],
+			"collapsable":false,
+			"title":"Well Performance Evaluation"
+		},
+		{
+			"children":[
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Overview"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Analysis & Optimization"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Well Health Review"
+				}
+			],
+			"collapsable":false,
+			"title":"ESP Optimization"
+		},
+		{
+			"children":[
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Overview"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Analysis & Optimization"
+				}
+			],
+			"collapsable":false,
+			"title":"NF Optimization"
+		},
+		{
+			"children":[
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Overview"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Analysis & Optimization"
+				}
+			],
+			"collapsable":false,
+			"title":"WI Optimization"
+		},
+		{
+			"children":[
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Overview"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Analysis & Optimization"
+				}
+			],
+			"collapsable":false,
+			"title":"PCP Optimization"
+		},
+		{
+			"children":[
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Overview"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Analysis & Optimization"
+				}
+			],
+			"collapsable":false,
+			"title":"SRP Optimization"
+		},
+		{
+			"children":[
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Facility Dashboard Overview"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"GC04 Process Overview"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"GC03 Process Overview"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"GC06 Process Overview"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"GC07 Process Overview"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"GC08 Process Overview"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"GC09 Process Overview"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"GC10 Process Overview"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"GC21 Process Overview"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"GC20 Process Overview"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Alarm"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Facility Document Management"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"GC22 Process Overview"
+				}
+			],
+			"collapsable":false,
+			"title":"Facility Management System"
+		},
+		{
+			"children":[
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Asset Surface Network"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"IPO Hourly Run"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Automatic Choke-ESP Optimization"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"AD-HOC"
+				}
+			],
+			"collapsable":false,
+			"title":"IPO"
+		},
+		{
+			"children":[
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"PGOR Request"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"New Ticket"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Ticket List"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Ticket Summary"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Task Summary"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Ticket Metrics"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Ticket Detail"
+				}
+			],
+			"collapsable":false,
+			"title":"Ticket"
+		},
+		{
+			"children":[
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Well Data Preparing"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Well Data Source"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Well Measure Health Check"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Surface Measurement"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Capacity Management"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Data Integrity"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Allowable Production"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Reservoir Pressure Entry"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Sahala Form"
+				}
+			],
+			"collapsable":false,
+			"title":"Data Setting"
+		},
+		{
+			"children":[
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"System Monitor"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Data Quality"
+				}
+			],
+			"collapsable":false,
+			"title":"System Health"
+		},
+		{
+			"children":[
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"General"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Alarm Notification"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Alarm Threshold"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Well Health Scan"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Well Master Data Management"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Report"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Well Tag"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Data Entitlement"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Workflow"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"KPM Data Management"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Document Management"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"System Utilization"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"KwIDF Process Setting"
+				}
+			],
+			"collapsable":false,
+			"title":"Administrator"
+		},
+		{
+			"children":[
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Night Figure Entry Form"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"MPGOR Dashboard"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Group Performance Dashboard"
+				},
+				{
+					"children":[],
+					"collapsable":false,
+					"title":"Asset Scorecard"
+				}
+			],
+			"collapsable":false,
+			"title":"KOC Planning Dashboards"
+		}
+	],
+	"collapsable":false,
+	"title":"根目录"
+}
